@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 01 19:33:55 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018a-5318-988d-00000ce37ff0 
+on database directory /Users/mustapha/Desktop/learning/SpringBootLessons/Spring Course Api/mydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@16f65612 
+Loaded from file:/Users/mustapha/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Homebrew
+java.runtime.version=11.0.19+0
+user.dir=/Users/mustapha/Desktop/learning/SpringBootLessons/Spring Course Api
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.2.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
